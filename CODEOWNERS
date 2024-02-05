@@ -1,3 +1,5 @@
+*  @team/lynx @team/phoenix
 
-# ML.NET samples:
-*  @team/lynx
+/docs/ @content
+
+/scripts/ @ops
